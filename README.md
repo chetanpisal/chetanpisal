@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chetan @chetanpisal
 - 👀 I’m interested in Cloud, K8s, Data Science, AI, BigData
-- 🌱 I’m currently learning K8s
+- 🌱 I’m currently learning DevOps, DevSecOps & Automation
 - 💞️ I’m looking to collaborate on K8s, Cloud and BigData
 - 📫 Reach me at @chetanpisal, chetanpisal@gmail.com
 
